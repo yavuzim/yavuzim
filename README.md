@@ -1,4 +1,4 @@
-### Hi there 👋, Kemal Yavuz İMER
+### Hi there 👋 Kemal Yavuz İMER
 #### Front-End Developer
 
 Skills: HTML / CSS / JAVACSCRIPT / C#
