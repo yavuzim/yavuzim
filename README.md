@@ -1,7 +1,7 @@
 ### Hi there 👋 Kemal Yavuz İMER
 #### Front-End Developer
 
-Skills: HTML / CSS / JAVACSCRIPT / C#
+Skills: HTML / CSS / JS / C#
 - 📫 How to reach me: yavuz.imer133@gmail.com 
 
 
