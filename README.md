@@ -15,8 +15,8 @@ Technologies:<br><br>
   </summary>
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=yavuzim&show_icons=true&theme=tokyonight%22%3E">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzim&layout=compact%22%3E">
+    <img src="https://github-readme-stats.vercel.app/api?username=yavuzim&show_icons=true&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzim&layout=compact&theme=tokyonight">
   </p>
 
 </details>
