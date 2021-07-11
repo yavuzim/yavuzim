@@ -1,5 +1,6 @@
 ### Hi there 👋 Kemal Yavuz İMER
-#### Front-End Developer
+#### Front-End Developer <br>
+<b><i>I'm Kemal Yavuz from Turkey. Writing code the part of my life, I'm somebody making an effort to improve myself everday. I like reseaching, reading a book,  drinking tea and Turkish coffee. </i></b> <br>
 
 Technologies:<br><br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30" style="max-width:100%;"> 
