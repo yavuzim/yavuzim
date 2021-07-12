@@ -9,8 +9,9 @@ Technologies:<br><br>
 
 - 📫 How to reach me: kyavuzimer@gmail.com <br><br>
  <a href="https://www.linkedin.com/in/kemal-yavuz-imer-078342193/">
- <img src="https://logowiki.net/uploads/logo/l/linkedin-icon-2.svg" width="70" height="70"></a>
-<a href="https://www.instagram.com/yavuzz.imer/"><img src="https://www.logovector.org/wp-content/uploads/2018/11/instagram-300x300.png" width="80" height="80"></a>
+ <img src="https://logowiki.net/uploads/logo/l/linkedin-icon-2.svg" width="70" height="70" title="Linkedin"></a>
+<a href="https://www.instagram.com/yavuzz.imer/">
+ <img src="https://www.logovector.org/wp-content/uploads/2018/11/instagram-300x300.png" width="80" height="80" title="Instagram"></a>
 <details>
   <summary>
     My GitHub Stats
