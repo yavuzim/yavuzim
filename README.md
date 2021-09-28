@@ -11,7 +11,7 @@ Technologies:<br><br>
 
 
 - 📫 How to reach me: kyavuzimer@gmail.com <br><br>
- <a href="https://www.linkedin.com/in/kemal-yavuz-imer-078342193/">
+ <a href="https://www.linkedin.com/in/kyavuzimer/">
  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-256.png" width="70" height="70" title="Linkedin"></a>
 <a href="https://www.instagram.com/yavuzz.imer/">
  <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-256.png" width="70" height="70" title="Instagram"></a>
