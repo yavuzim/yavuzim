@@ -12,9 +12,11 @@ Technologies:<br><br>
 
 - 📫 How to reach me: kyavuzimer@gmail.com <br><br>
  <a href="https://www.linkedin.com/in/kyavuzimer/">
- <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-256.png" width="70" height="70" title="Linkedin"></a>
+ <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" width="70" height="70" title="Linkedin"></a>
 <a href="https://www.instagram.com/yavuzz.imer/">
- <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-256.png" width="70" height="70" title="Instagram"></a>
+ <img src="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-03-128.png" width="70" height="70" title="Instagram"></a>
+ <a href="https://www.hackerrank.com/yavuz_imer133">
+ <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-256.png" width="70" height="70" title="HackerRank"></a>
  <br><br>
 <details>
   <summary>
