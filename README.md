@@ -1,4 +1,4 @@
-#### Software Developer <br>
+#### Computer Engineering<br>
 <!--<b><i>I'm Kemal Yavuz from Turkey. Writing code the part of my life, I'm somebody making an effort to improve myself everday. I like researching, reading a book,  drinking tea and Turkish coffee. </i></b> <br>-->
 
 <!--Technologies:<br><br>
