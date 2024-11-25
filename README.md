@@ -11,7 +11,7 @@
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="javascript" width="30" height="30" style="max-width:100%;">-->
 
 
-- 📫 How to reach me: kyavuzimer@gmail.com <br>
+ <!--- 📫 How to reach me: kyavuzimer@gmail.com <br>
  <!--<a href="https://www.linkedin.com/in/kyavuzimer/">
  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" width="70" height="70" title="Linkedin"></a>
 <a href="https://www.instagram.com/yavuzz.imer/">
