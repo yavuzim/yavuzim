@@ -1,4 +1,4 @@
-#### Computer Engineering<br>
+#### Computer Engineer<br>
 <!--<b><i>I'm Kemal Yavuz from Turkey. Writing code the part of my life, I'm somebody making an effort to improve myself everday. I like researching, reading a book,  drinking tea and Turkish coffee. </i></b> <br>-->
 
 <!--Technologies:<br><br>
@@ -24,9 +24,9 @@
 <details>
   <summary>
     My GitHub Stats
-  </summary>
+  </summary><br/>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=yavuzim&show_icons=true&theme=tokyonight" height="180">
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=yavuzim&show_icons=true&theme=tokyonight" height="180"> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzim&layout=compact&theme=tokyonight" height="180">
   </p>
 </details>
